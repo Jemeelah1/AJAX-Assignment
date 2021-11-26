@@ -1,0 +1,24 @@
+{
+  "teachers": [
+      {
+          "id": 1,
+          "name": "Hope Ndudim",
+          "description": "C# sharp instructor"
+      },
+      {
+          "id": 2,
+          "name": "Alli Samuel",
+          "description": "Javascript Teacher"
+      },
+      {
+          "id": 3,
+          "name": "Odiegwu Onyinye",
+          "description": "A Front end developer"
+      },
+      {
+          "id": 4,
+          "name": "Dotto Ibrahim Jemila",
+          "description": "A busy entreprenuer"
+      }
+  ]
+}
